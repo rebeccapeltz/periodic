@@ -1,4 +1,6 @@
 
+
+// init counter
 var counter = 1
 
 function createWrapper() {
